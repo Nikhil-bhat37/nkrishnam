@@ -2511,4 +2511,29 @@ input, select, textarea {
 	.contact-card:hover {
 		transform: scale(1.05);
 	}
+
+	.article-with-background-profile {
+		background-image: url('images/profile_background.jpg');
+		background-size: cover; /* Adjust as needed */
+		background-position: center; /* Adjust as needed */
+		background-repeat: no-repeat;
+		padding: 20px; /* Add padding for better visibility */
+		color: #fff; /* Set text color to ensure readability on the background */
+	}
+	.workbg {
+		background-image: url('images/workbg.jpg');
+		background-size: cover; /* Adjust as needed */
+		background-position: center; /* Adjust as needed */
+		background-repeat: no-repeat;
+		padding: 20px; /* Add padding for better visibility */
+		color: #fff; /* Set text color to ensure readability on the background */
+	}
+	.edubg {
+		background-image: url('images/edubg.jpg');
+		background-size: cover; /* Adjust as needed */
+		background-position: center; /* Adjust as needed */
+		background-repeat: no-repeat;
+		padding: 20px; /* Add padding for better visibility */
+		color: #fff; /* Set text color to ensure readability on the background */
+	}
 	
